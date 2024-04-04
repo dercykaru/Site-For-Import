@@ -1,0 +1,12 @@
+# файл .gitignore
+
+# Игнорировать файлы .DS_Store и Thumbs.db:
+.DS_Store
+Thumbs.db
+
+# Игнорировать каталог tmp:
+tmp/
+
+# Игнорировать файлы, заканчивающиеся на "_old" и "_backup":
+*_old
+*_backup
